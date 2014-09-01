@@ -4,8 +4,8 @@
 	<artifactId>hw0-ljmartin</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git://github.com/ladognome/hw0-ljmartin.git</connection>
-		<developerConnection>scm:git:git://github.com/ladognome/hw0-ljmartin.git</developerConnection>
+		<connection>scm:git:git@github.com:ladognome/hw0-ljmartin.git</connection>
+		<developerConnection>scm:git:git@github.com:ladognome/hw0-ljmartin.git</developerConnection>
 	  <tag>hw0-ljmartin-0.0.1</tag>
   </scm>
 	<repositories>
