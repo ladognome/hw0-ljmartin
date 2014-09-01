@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f14.hw0</groupId>
 	<artifactId>hw0-ljmartin</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<scm>
 		<connection>scm:git:git@github.com:ladognome/hw0-ljmartin.git</connection>
 		<developerConnection>scm:git:git@github.com:ladognome/hw0-ljmartin.git</developerConnection>
-	  <tag></tag>
+	  <tag>hw0-ljmartin-0.0.2</tag>
   </scm>
 	<repositories>
 		<repository>
