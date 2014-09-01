@@ -6,7 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:ladognome/hw0-ljmartin.git</connection>
 		<developerConnection>scm:git:git@github.com:ladognome/hw0-ljmartin.git</developerConnection>
-	  <tag>hw0-ljmartin-0.0.1</tag>
+	  <tag></tag>
   </scm>
 	<repositories>
 		<repository>
